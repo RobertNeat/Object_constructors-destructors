@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616422919 source:c:\users\elitebook\documents\dokumenty w-l-c\# programowanie obiektowe w c++\#laboratoria\laboratorium 3\na zajeciach\zajecia17marca\main.cpp
+	<iostream>
+	"Tosoba.h"
+
+1616423323 c:\users\elitebook\documents\dokumenty w-l-c\# programowanie obiektowe w c++\#laboratoria\laboratorium 3\na zajeciach\zajecia17marca\include\tosoba.h
+	<string>
+	<iostream>
+
+1616423737 source:c:\users\elitebook\documents\dokumenty w-l-c\# programowanie obiektowe w c++\#laboratoria\laboratorium 3\na zajeciach\zajecia17marca\src\tosoba.cpp
+	"Tosoba.h"
+	<cstdio>
+	<string.h>
+	<iostream>
+
